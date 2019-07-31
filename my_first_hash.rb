@@ -21,7 +21,7 @@ def retrieval(shipping_manifest)
 shipping_manifest = ["whale bone corsets", "porcelain vases", "oil paintings"]
 end
 
-retrieval[shipping_manifest][2]
+
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
 
